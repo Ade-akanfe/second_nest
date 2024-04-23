@@ -4,14 +4,13 @@ GET http://localhost:3000/message
 
 ### Post Request
 POST http://localhost:3000/message
-
 Content-Type: application/json
 
 {
-    "message":""
+    "message":"Ademola01"
 }
 
 
 ### get a sigle request
 
-GET http://localhost:3000/message/1211211
+GET http://localhost:3000/message/171
